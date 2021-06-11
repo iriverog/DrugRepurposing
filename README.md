@@ -11,7 +11,7 @@ January 2020 - June 2020, Stockholm Sweden.
 Joint Master's Programme in Molecular Techniques in Life Science, KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University.
 
 
-![](/kth_logo.png) 
+![ ](/kth_logo.png) 
 ![](/ki_logo.png)
 ![](/su_logo.jpg)
 ![](/scilifelab_logo.png)
